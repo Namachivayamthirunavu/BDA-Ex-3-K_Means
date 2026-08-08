@@ -1,6 +1,7 @@
-## Exp 02 K-Means Clustering
-### Reg.No: 212223060179
+## Exp 03 K-Means Clustering
 ### Name: Namachivayam T
+### Reg.No: 212223060179
+
 ### AIM:
 To implement the K-Means Clustering algorithm in Python to group customers based on their Annual Income and Spending Score and visualize the clusters using a scatter plot.
 
